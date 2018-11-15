@@ -2,3 +2,4 @@
 新的一行
 这是master需要添加的内容,这是mergedemo添加的内容
 version 1
+version 2
